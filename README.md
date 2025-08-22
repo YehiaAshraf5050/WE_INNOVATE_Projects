@@ -1,2 +1,4 @@
 # WE_INNOVATE_Projects
-Here, you can find the projects that I successfully made during my time at the WE Innovate Defensive SOC Bootcamp
+Here, you can find the projects that I successfully made during my time at the WE Innovate Defensive SOC Bootcamp.
+Some of these projects' deep details weren't mentioned due to time and pressure. 
+If you need help in some detail feel free to contact me. https://www.linkedin.com/in/yehia-ashraf/
